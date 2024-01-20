@@ -3,7 +3,6 @@
 
 These are the code files from the [DevSecOps course](https://kodekloud.com/courses/devsecops/) hosted on KodeKloud.
 
-
 ### Fork and Clone this Repo
 
 ### Clone to Desktop and VM
@@ -20,3 +19,4 @@ These are the code files from the [DevSecOps course](https://kodekloud.com/cours
 `kubectl expose deploy node-app --name node-service --port 5000 --type ClusterIP`
 
 `curl node-service-ip:5000/plusone/99`
+
